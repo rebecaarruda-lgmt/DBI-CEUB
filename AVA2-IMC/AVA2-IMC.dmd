@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="AVA2-IMC" id="18D833EE-31F0-E99E-CF4E-AE8E1991674B" version="3.5">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 22:31:28 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>18D833EE-31F0-E99E-CF4E-AE8E1991674B</designId>
+</OSDM_Design>

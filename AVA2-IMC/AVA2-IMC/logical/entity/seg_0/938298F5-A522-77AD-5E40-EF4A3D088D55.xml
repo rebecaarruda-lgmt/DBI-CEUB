@@ -1,0 +1,92 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="938298F5-A522-77AD-5E40-EF4A3D088D55" name="paciente">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 23:26:06 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<engineerTo>
+<item key="584E8454-26D5-5BF8-1332-4DCA8608022E" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<shortName>paciente</shortName>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="nome completo" id="8904FF13-1878-3A56-F8E1-965E36AA899A">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 23:26:48 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<engineerTo>
+<item key="584E8454-26D5-5BF8-1332-4DCA8608022E" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="sexo" id="17BC9772-C250-49CD-C2B6-9DC0C5C5C020">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 23:27:06 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<engineerTo>
+<item key="584E8454-26D5-5BF8-1332-4DCA8608022E" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="endereço" id="C90F68AD-E0AC-C67A-F651-43E3D8BC29FE">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 23:27:24 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<engineerTo>
+<item key="584E8454-26D5-5BF8-1332-4DCA8608022E" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="data de nascimento" id="4C7A234E-F679-6684-6CD2-0CA4D3222C2D">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 23:27:35 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<engineerTo>
+<item key="584E8454-26D5-5BF8-1332-4DCA8608022E" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cpf" id="815D8780-C051-3F9D-A47E-1397288A9D01">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 23:27:55 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<engineerTo>
+<item key="584E8454-26D5-5BF8-1332-4DCA8608022E" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cadastro unico do sus" id="DC6891C5-5328-CEFF-6A49-77230AC9200E">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 23:28:06 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<engineerTo>
+<item key="584E8454-26D5-5BF8-1332-4DCA8608022E" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="telefone" id="8C0F45A0-8F78-2C46-41DA-870389F2B854">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 23:28:19 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<engineerTo>
+<item key="584E8454-26D5-5BF8-1332-4DCA8608022E" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

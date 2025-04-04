@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="30CE1956-698A-ED27-F703-BA6D558D3BD9" mainViewID="0BB72F7A-91FA-195F-FABF-0B558A73FFC5">
+<createdBy>rebeca.arruda</createdBy>
+<createdTime>2025-04-03 22:31:28 UTC</createdTime>
+<ownerDesignName>AVA2-IMC</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>
